@@ -19,7 +19,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I’m currently learning `Full Stack Development`
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
